@@ -2,5 +2,6 @@
 #!/bin/zsh
 #コメントを出力する
 message="test"
-echo $message
+echo "This is $message"
+echo 'This is ${message}'
 # スペース入れない
