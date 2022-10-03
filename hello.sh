@@ -1,3 +1,6 @@
 # 自動でファイル名だけを実装
 #!/bin/zsh
-echo "hello World"
+#コメントを出力する
+message="test"
+echo $message
+# スペース入れない
