@@ -1,6 +1,0 @@
-total 16
--rw-r--r--  1 kentarokinoshota  staff   8 10  2 20:18 README.md
--rw-r--r--  1 kentarokinoshota  staff  20 10  2 21:29 hello
--rw-r--r--  1 kentarokinoshota  staff   0 10  2 21:37 list.txt
-drwxr-xr-x  2 kentarokinoshota  staff  64 10  2 20:32 new.txt
-drwxr-xr-x  3 kentarokinoshota  staff  96 10  2 20:45 practice
